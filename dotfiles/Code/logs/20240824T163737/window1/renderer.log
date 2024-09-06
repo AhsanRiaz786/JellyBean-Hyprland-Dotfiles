@@ -1,0 +1,5 @@
+2024-08-24 16:37:38.759 [info] Started local extension host with pid 5653.
+2024-08-24 16:37:40.974 [error] InstantiationService has been disposed: Error: InstantiationService has been disposed
+    at g.m (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:655:386)
+    at g.createInstance (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:655:944)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1916:6289

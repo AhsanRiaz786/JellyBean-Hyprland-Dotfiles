@@ -1,0 +1,3 @@
+2024-08-24 17:36:57.990 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/JellyBean/.config/electron*-flag.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-08-24 17:36:58.564 [info] Started local extension host with pid 4890.
+2024-08-24 17:37:01.340 [info] [perf] Render performance baseline is 34ms

@@ -1,0 +1,9 @@
+2024-08-24 16:37:39.688 [info] Extension host with pid 5653 started
+2024-08-24 16:37:39.688 [info] Skipping acquiring lock for /home/JellyBean/.config/Code/User/workspaceStorage/c19158590f6aae4c6e0bdc9702c144f9.
+2024-08-24 16:37:40.070 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-24 16:37:40.082 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-08-24 16:37:40.689 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-08-24 16:37:40.895 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-24 16:37:40.989 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-24 16:37:41.019 [info] Eager extensions activated
+2024-08-24 16:37:41.020 [info] Extension host with pid 5653 exiting with code 0

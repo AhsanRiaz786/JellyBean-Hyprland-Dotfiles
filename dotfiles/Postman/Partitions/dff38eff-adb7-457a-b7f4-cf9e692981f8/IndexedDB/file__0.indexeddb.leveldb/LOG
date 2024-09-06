@@ -1,0 +1,10 @@
+2024/09/04-16:17:11.970 2abd2 Creating DB /home/JellyBean/.config/Postman/Partitions/dff38eff-adb7-457a-b7f4-cf9e692981f8/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2024/09/04-16:17:11.973 2abd2 Reusing MANIFEST /home/JellyBean/.config/Postman/Partitions/dff38eff-adb7-457a-b7f4-cf9e692981f8/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/09/04-16:17:11.980 2abd1 Level-0 table #5: started
+2024/09/04-16:17:11.982 2abd1 Level-0 table #5: 494 bytes OK
+2024/09/04-16:17:11.984 2abd1 Delete type=0 #3
+2024/09/04-16:17:11.984 2abd1 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/04-16:17:12.030 2abd1 Level-0 table #7: started
+2024/09/04-16:17:12.032 2abd1 Level-0 table #7: 478 bytes OK
+2024/09/04-16:17:12.034 2abd1 Delete type=0 #4
+2024/09/04-16:17:12.034 2abd1 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

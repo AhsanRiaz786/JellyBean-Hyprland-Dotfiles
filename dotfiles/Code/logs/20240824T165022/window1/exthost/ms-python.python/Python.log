@@ -1,0 +1,35 @@
+2024-08-24 16:50:25.693 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-08-24 16:50:25.693 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-08-24 16:50:25.693 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-08-24 16:50:25.693 [info] Experiment 'pythonTestAdapter' is active
+2024-08-24 16:50:25.693 [error] Reading directory to watch failed [Error: ENOENT: no such file or directory, scandir '/home/JellyBean/Projects/.pixi/envs'
+	at Object.readdirSync (node:fs:1509:26)
+	at t.readdirSync (node:electron/js2c/node_init:2:11418)
+	at /home/JellyBean/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586747
+	at /home/JellyBean/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586938
+	at Array.map (<anonymous>)
+	at d.initWatchers (/home/JellyBean/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586656)
+	at async d.ensureWatchersReady (/home/JellyBean/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:543067)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/home/JellyBean/Projects/.pixi/envs'
+}
+2024-08-24 16:50:25.693 [error] Dir "/home/JellyBean/Projects/.pixi/envs" is not watchable (directory does not exist)
+2024-08-24 16:50:25.693 [info] Default formatter is set to null for workspace /home/JellyBean/Projects
+2024-08-24 16:50:25.693 [info] Python interpreter path: /bin/python
+2024-08-24 16:50:25.809 [info] > pyenv which python
+2024-08-24 16:50:25.811 [info] cwd: .
+2024-08-24 16:50:25.947 [info] > pixi --version
+2024-08-24 16:50:25.949 [error] [Error: spawn pixi ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-08-24 16:50:25.949 [warning] could not find a pixi interpreter for the interpreter at /bin/python
+2024-08-24 16:50:27.464 [info] Starting Jedi language server for Projects.

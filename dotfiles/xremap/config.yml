@@ -1,0 +1,9 @@
+modmap:
+  - name: Except Chrome
+    remap:
+      CapsLock:
+        held: leftalt
+        alone : esc
+        alone_timeout_millis: 150
+  
+

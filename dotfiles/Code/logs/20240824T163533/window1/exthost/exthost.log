@@ -1,0 +1,76 @@
+2024-08-24 16:35:36.543 [info] Extension host with pid 5075 started
+2024-08-24 16:35:36.543 [info] Skipping acquiring lock for /home/JellyBean/.config/Code/User/workspaceStorage/c19158590f6aae4c6e0bdc9702c144f9.
+2024-08-24 16:35:36.882 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-24 16:35:36.894 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-08-24 16:35:37.448 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-08-24 16:35:37.595 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-24 16:35:37.869 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-24 16:35:37.944 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-24 16:35:38.035 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-24 16:35:38.059 [error] Canceled: Canceled
+	at Object.u [as $5] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+	at Array.forEach (<anonymous>)
+	at E.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+	at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+	at $.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+	at o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-24 16:35:38.059 [error] Canceled: Canceled
+	at Object.u [as $5] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+	at Array.forEach (<anonymous>)
+	at E.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+	at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+	at $.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+	at o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-24 16:35:38.059 [error] Canceled: Canceled
+	at Object.u [as $5] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+	at Array.forEach (<anonymous>)
+	at E.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+	at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+	at $.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+	at o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-24 16:35:38.060 [error] Canceled: Canceled
+	at Object.u [as $5] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+	at Array.forEach (<anonymous>)
+	at E.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+	at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+	at $.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+	at o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-24 16:35:38.064 [error] Canceled: Canceled
+	at Object.u [as $5] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+	at Array.forEach (<anonymous>)
+	at E.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+	at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+	at $.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+	at o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-24 16:35:38.065 [error] Canceled: Canceled
+	at Object.u [as $5] (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1082)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2406
+	at Array.forEach (<anonymous>)
+	at E.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:2344)
+	at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8163)
+	at $.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+	at o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+	at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-24 16:35:38.066 [info] Extension host with pid 5075 exiting with code 0

@@ -1,0 +1,3 @@
+2024-08-24 17:01:30.539 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/JellyBean/.config/code-flags.conf","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-08-24 17:01:31.089 [info] Started local extension host with pid 15564.
+2024-08-24 17:01:34.435 [info] [perf] Render performance baseline is 33ms

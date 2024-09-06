@@ -1,0 +1,8 @@
+2024/09/03-14:57:46.412 1e881 Reusing MANIFEST /home/JellyBean/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/09/03-14:57:46.425 1e881 Recovering log #4
+2024/09/03-14:57:46.430 1e881 Level-0 table #7: started
+2024/09/03-14:57:46.433 1e881 Level-0 table #7: 46195 bytes OK
+2024/09/03-14:57:46.434 1e881 Delete type=0 #4
+2024/09/03-15:10:46.681 1e881 Level-0 table #10: started
+2024/09/03-15:10:46.688 1e881 Level-0 table #10: 27412 bytes OK
+2024/09/03-15:10:46.693 1e881 Delete type=0 #8

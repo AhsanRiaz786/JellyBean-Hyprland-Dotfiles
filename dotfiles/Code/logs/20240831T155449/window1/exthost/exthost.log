@@ -1,0 +1,3 @@
+2024-08-31 15:54:51.939 [info] Extension host with pid 150527 started
+2024-08-31 15:54:52.119 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-31 15:54:52.122 [info] Extension host with pid 150527 exiting with code 0

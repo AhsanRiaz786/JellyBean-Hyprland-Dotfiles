@@ -1,0 +1,9 @@
+# GIMP action-history
+
+(history-item "file-quit" 0)
+(history-item "file-open" 3)
+(history-item "edit-cut" 0)
+(history-item "file-print-gtk" 0)
+(history-item "tools-paintbrush" 1)
+
+# end of action-history
